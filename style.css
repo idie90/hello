@@ -1,0 +1,27 @@
+h2{
+color: greenyellow;
+}
+body{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    font-family: cursive;
+
+
+}
+
+h1{
+    color: green;
+}
+header{
+    border-bottom: 1px solid gray
+}
+footer{
+    border-top: 1px solid gray;
+}
+#nome-usuario{
+    font-weight: bold;
+}
+.texto-ingles{
+    font-style: italic;
+}
